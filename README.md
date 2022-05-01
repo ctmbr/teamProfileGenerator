@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-[Description](#description)
-[Contact](#contact)
-[Installation](#installation)
+[Description](#description)\
+[Contact](#contact)\
+[Installation](#installation)\
 [Test Information](#testinformation)
 
 ## Description
 
-![video description](image.jpg)
+![demo](./dist/demo.mp4)
 
 It uses NodeJS queries to generate a static html page containing team members and their info
 
